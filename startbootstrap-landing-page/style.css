@@ -1,0 +1,25 @@
+a {
+    color:black;
+}
+
+
+.hidden{
+    display:none;
+}
+
+.nutrition{
+    margin-left:50px;
+    color: black
+    
+}
+
+.jumbotron{
+    background-color:white;
+    border-top-width:1px;
+    border-top-color: black
+    
+}
+
+.overlay{
+    background-image: url('froont.jpg')
+}
